@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img src="https://github.com/AlessandraPetry/MyHeart/assets/12008425/e2fc5035-6e11-4c48-b501-0818e82c0633" min-width="400px" max-width="400px" width="400px" align="right">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alessandra Petry</h1>
 
