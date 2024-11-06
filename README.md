@@ -3,39 +3,23 @@
 
 - 🔥 Frontend Software Engineer
 
-- 🇧🇷 A Brazilian living in the Netherlands 🇳🇱
-
 - ❤ Passionate about technology and always improving to be a better person
 
-- 💻 I'm currently working at [Housing Anywhere](https://github.com/housinganywhere)
+- 🇧🇷 A Brazilian living in the Netherlands 🇳🇱
 
 - 🔧 My tech stacks are:
     - React,
     - Typescript,
     - Redux,
+    - Next,
     - HTML & CSS,
     - Jest & Cypress & React testing library
+    - React Native (studying...)
 
-- 🛠️ But I also know: VueJs, PHP, Ruby on Rails, Vanilla Javascript, Jquery
+- 🛠️ But I also have experience with: VueJs, PHP, Ruby on Rails, Vanilla Javascript, Jquery, GraphQL
 
 - 🌟 My interests are: ⚽️ sports, 🎮 video games, 📚 books, 🎬 films/series, 🎶 music (listening and playing), ✈️ and especially exploring new places and cultures.
 
 - 📫 You can reach me on:
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omariosouto)](https://www.linkedin.com/in/alessandrapetry)
-
-
-<!--
-**AlessandraPetry/AlessandraPetry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrapetry)  [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:alessandrapetryy@gmail.com)
